@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wojjakk
+- 👋 Hi, I’m @dunniakk
 - 👀 I’m interested in programming, making 3D and 2D
 - 🌱 I’m currently learning blender, c#, js etc.
 - 🎮 I like playing games (csgo, rocket league, excel and Skype)
